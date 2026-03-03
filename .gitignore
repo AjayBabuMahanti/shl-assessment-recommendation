@@ -10,15 +10,6 @@ dist/
 build/
 .eggs/
 
-# Virtual environment
-venv/
-env/
-.env
-.venv/
-
-# Vector database (large binary files, regenerate locally)
-vector_db/
-
 # Model cache
 .cache/
 models/
